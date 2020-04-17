@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2020-04-17T10:11:55.023Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36 Edg/81.0.416.53" version="12.9.14" etag="0EAydjRXV8hpaAFxoVaV" type="github"><diagram id="OXcyOOfVHmv8OVvFkE1C">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-17T10:12:26.741Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36 Edg/81.0.416.53" etag="mM5lXWOn8m9SYlwbCJfc" version="12.9.14" type="github">
+  <diagram id="OXcyOOfVHmv8OVvFkE1C" name="第 1 页">
+    <mxGraphModel dx="2062" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="opa4IhGFRE8TvmSe8pSI-1" value="" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="opa4IhGFRE8TvmSe8pSI-2" value="" style="shape=xor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="120" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="opa4IhGFRE8TvmSe8pSI-3" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tr style=&quot;background-color:#A7C942;color:#ffffff;border:1px solid #98bf21;&quot;&gt;&lt;th align=&quot;left&quot;&gt;Title 1&lt;/th&gt;&lt;th align=&quot;left&quot;&gt;Title 2&lt;/th&gt;&lt;th align=&quot;left&quot;&gt;Title 3&lt;/th&gt;&lt;/tr&gt;&lt;tr style=&quot;border:1px solid #98bf21;&quot;&gt;&lt;td&gt;Value 1&lt;/td&gt;&lt;td&gt;Value 2&lt;/td&gt;&lt;td&gt;Value 3&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color:#EAF2D3;border:1px solid #98bf21;&quot;&gt;&lt;td&gt;Value 4&lt;/td&gt;&lt;td&gt;Value 5&lt;/td&gt;&lt;td&gt;Value 6&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border:1px solid #98bf21;&quot;&gt;&lt;td&gt;Value 7&lt;/td&gt;&lt;td&gt;Value 8&lt;/td&gt;&lt;td&gt;Value 9&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color:#EAF2D3;border:1px solid #98bf21;&quot;&gt;&lt;td&gt;Value 10&lt;/td&gt;&lt;td&gt;Value 11&lt;/td&gt;&lt;td&gt;Value 12&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#c0c0c0;fillColor=#ffffff;overflow=fill;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="340" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="opa4IhGFRE8TvmSe8pSI-4" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Value 1&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 2&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Value 4&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 5&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Value 7&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 8&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 9&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="510" y="150" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="opa4IhGFRE8TvmSe8pSI-5" value="" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="700" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="opa4IhGFRE8TvmSe8pSI-6" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="174" y="620" width="480" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="opa4IhGFRE8TvmSe8pSI-7" value="Lane 1" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="opa4IhGFRE8TvmSe8pSI-6">
+          <mxGeometry y="20" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="opa4IhGFRE8TvmSe8pSI-8" value="Lane 2" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="opa4IhGFRE8TvmSe8pSI-6">
+          <mxGeometry y="140" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="opa4IhGFRE8TvmSe8pSI-9" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="opa4IhGFRE8TvmSe8pSI-6">
+          <mxGeometry y="260" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="opa4IhGFRE8TvmSe8pSI-10" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="490" width="480" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="opa4IhGFRE8TvmSe8pSI-11" value="Lane 1" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="opa4IhGFRE8TvmSe8pSI-10">
+          <mxGeometry x="20" width="460" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="opa4IhGFRE8TvmSe8pSI-12" value="Lane 2" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="opa4IhGFRE8TvmSe8pSI-10">
+          <mxGeometry x="20" y="120" width="460" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="opa4IhGFRE8TvmSe8pSI-13" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="opa4IhGFRE8TvmSe8pSI-10">
+          <mxGeometry x="20" y="240" width="460" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
